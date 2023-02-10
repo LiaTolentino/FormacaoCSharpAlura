@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/3-CriandoVariaveisPontoFlutuante/Properties/AssemblyInfo.cs
+/3-CriandoVariaveisPontoFlutuante/App.config
+/4-ConversoesEOutrosTipos/Properties/AssemblyInfo.cs
+/4-ConversoesEOutrosTipos/App.config
+/5-CaracteresETextos/Properties/AssemblyInfo.cs
+/5-CaracteresETextos/App.config
+/6-AtribuicoesDeVariaveis/Properties/AssemblyInfo.cs
+/6-AtribuicoesDeVariaveis/App.config
+/7-Condicional/Properties/AssemblyInfo.cs
+/7-Condicional/App.config
+/8-Condicional2/Properties/AssemblyInfo.cs
+/8-Condicional2/App.config
